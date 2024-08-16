@@ -16,4 +16,3 @@ RUN npm install
 # Start the application
 CMD ["node", "server.js"]
 
-# Expose the port the app runs in
